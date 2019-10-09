@@ -8,5 +8,3 @@ __author__ = "Michael Falkenstein"
   I recently read an article on how 'First Man' shot a lot of their vfx 'in-camera' and its benefits. They built 30-foot semi-circular screens to display videos of sky or space. Then would strap the actor, Ryan Gosling, to a cockpit and focus the camera on him. The camera would then see the reflection from the screen on the actor's helmet and eyes. This would save on elaborate compositing work needed to add the reflections in.
   
   I have a large background in martial arts and dance, including classical ballet. Animation, and specifically the utilization of motion capture and how artists can plus that data through the pipeline is probably one of my favorite aspects of vfx. One of the corresponding videos that inspired me the most in college is seeing Benedict Cumberbatch act in a mocap suit for Smaug in The Hobbit. His performance couldn't be transposed onto Smaug's rig, but the animators still used that data as inspiration for their work.
-
-Please note: Due to how busy I've been with Frozen 2 crunch time, I haven't had the opportunity to read any technical articles as of late. Apologies!

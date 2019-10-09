@@ -85,10 +85,7 @@ class TempTracker(object):
 			int: The first value of the data array.
 
 		'''
-		if len(self.data) is 0:
-			return -1
-		else:
-		return self.data[] if self.not_empty else -1
+		return self.data[0] if self.not_empty else -1
 
 	def reset(self):
 		'''

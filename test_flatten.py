@@ -5,6 +5,9 @@ from flatten import flatten
 
 
 class TestFlatten(unittest.TestCase):
+    '''
+    This is a test class for flatten.py
+    '''
 
     def test_empty_array(self):
         self.assertEqual(flatten([]), [])

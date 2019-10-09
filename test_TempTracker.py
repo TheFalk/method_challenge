@@ -5,6 +5,9 @@ from TempTracker import TempTracker
 
 
 class TestTempTracker(unittest.TestCase):
+    '''
+    This is a test class for TempTracker.py
+    '''
 
     def setUp(self):
     	self.tracker = TempTracker()

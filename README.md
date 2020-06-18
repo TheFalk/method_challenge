@@ -1,4 +1,5 @@
 # method_challenge
+# coding test
 
 __author__ = "Michael Falkenstein"
 
